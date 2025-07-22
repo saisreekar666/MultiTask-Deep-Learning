@@ -36,3 +36,11 @@ This notebook implements an advanced multi-model deep learning architecture feat
 
 ---
 
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/yourusername/multitask-deep-learning.git
+cd multitask-deep-learning
+pip install -r requirements.txt
+jupyter notebook Final_Project_DL.ipynb
+
