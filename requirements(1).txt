@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.28.0
+datasets>=2.10.0
+opencv-python
+matplotlib
+numpy
+tqdm
+Pillow
+seaborn
+gym==0.26.2
+pygame
+scikit-learn
