@@ -1,5 +1,3 @@
-# MultiTask-Deep-Learning
-
 # 🧠 Multi-Task Deep Learning System: GAN, Object Detection, Captioning & RL Agent
 
 This project showcases a comprehensive AI pipeline combining:
